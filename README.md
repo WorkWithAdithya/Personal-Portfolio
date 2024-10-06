@@ -1,4 +1,4 @@
-<h1></h1>Personal-Portfolio
+<h1> Personal-Portfolio</h1>
 <h1> About </h1>
 <li>Developed a responsive portfolio website using HTML, CSS, and JavaScript to showcase projects and skills.</li>
   <li>Integrated various JavaScript libraries such as Type.js and Tilt.js to enhance interactivity and user engagement. </li>
@@ -33,6 +33,17 @@
 <img src=https://github.com/WorkWithAdithya/Personal-Portfolio/blob/main/final%20images/contact%20page.png  width="1000" height="500">
 
 
+## Application Structure
+```
+├── assests
+    ├── css (contains css)
+    ├── images (contains images)
+    └── js (containes script file)
+├── index (html file)
+├── skills (json file)
+
+
+```
 
 <h1>How to Clone This Repository</h1>
 
