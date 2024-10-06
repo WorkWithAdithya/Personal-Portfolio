@@ -64,8 +64,8 @@
 
 <h1>Step 4: Open the Project in Your Code Editor</h1>
 <p>You can now open the project in your favorite code editor (like VSCode) or just view the files directly:</p>
-<p>code .</p>
-<p>Run index.html file</p>
+ <li>code . </li>code 
+<li>Run index.html file </li>
 
 <h1>Feel free to contact me!</h1>
 <p>Name : Adithya BS</p>
