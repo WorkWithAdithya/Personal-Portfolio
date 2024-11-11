@@ -55,17 +55,26 @@
 <h1>Step 2: Clone the Repository</h1>
 <p>Open your terminal (Command Prompt or Git Bash for Windows, Terminal for macOS or Linux).</p>
 <p>Use the git clone command followed by the repository's URL.</p>
-<p>https://github.com/WorkWithAdithya/Personal-Portfolio.git</p>
+
+```bash
+https://github.com/WorkWithAdithya/Personal-Portfolio.git
+```
 
 <h1>Step 3: Navigate to the Project Folder</h1>
 <p>Once the repository has been cloned, navigate to the project folder using the following command:</p>
-<p>cd personal-portfolio</p>
+
+```bash
+cd personal-portfolio
+```
 
 
 <h1>Step 4: Open the Project in Your Code Editor</h1>
 <p>You can now open the project in your favorite code editor (like VSCode) or just view the files directly:</p>
- <li>code . </li>
-<li>Run index.html file </li>
+
+```bash
+code .
+```
+<p>Run index.html file </p>
 
 <h1>Feel free to contact me!</h1>
 <p>Name : Adithya BS</p>
